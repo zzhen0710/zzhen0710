@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**zzhen0710/zzhen0710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **zhen**, a CS undergraduate interested in C++ and systems programming.
 
-Here are some ideas to get you started:
+Currently moving from foundational CS study toward hands-on engineering, with a focus on Linux, systems programming, and building real projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- **[netdict](https://github.com/zzhen0710/netdict)** — A TCP-based English dictionary server built with C++17, epoll, poll, a thread pool, and SQLite.
+- **[The-Ring-of-Dominion](https://github.com/zzhen0710/The-Ring-of-Dominion)** — A C++/EasyX action game built during my freshman year.
+
+## Notes
+
+- **[linux-cpp-notes](https://github.com/zzhen0710/linux-cpp-notes)** — Notes and practical records from my Linux C++ engineering journey.
+
+## Currently Learning
+
+`C++` · `Linux` · `CMake` · `GDB` · `Systems Programming`
+
+---
+
+Building projects, learning by doing.
+
+Still early, still improving.
