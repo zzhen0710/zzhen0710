@@ -1,23 +1,23 @@
 ## Hi there 👋
 
-I'm **zhen**, a CS undergraduate interested in C++ and systems programming.
+I'm **zhen**, a software engineering undergraduate interested in C++ and Linux systems programming.
 
-Learning through hands-on projects, exploring Linux development, and gradually building my engineering skills.
+I learn through projects and use AI-assisted development to practice task scoping, code review, testing, and debugging.
 
 ## Projects
 
-- [**netdict**](https://github.com/zzhen0710/netdict) — A TCP-based English dictionary server built with C++17, epoll, poll, a thread pool, and SQLite.
-- [**The-Ring-of-Dominion**](https://github.com/zzhen0710/The-Ring-of-Dominion) — A C++/EasyX action game built during my freshman year.
+- [**raftkv**](https://github.com/zzhen0710/raftkv) — A C++ KV learning project progressing toward Raft replication and recovery. Currently at the design and documentation stage; implementation has not started.
+- [**netdict**](https://github.com/zzhen0710/netdict) — A TCP-based English dictionary server built with C++17, a thread pool, and SQLite.
+- [**The-Ring-of-Dominion**](https://github.com/zzhen0710/The-Ring-of-Dominion) — My first complete C++/EasyX action game, built in 20 days during my freshman year, featuring cursor-aimed combat and weapon upgrades.
 
 ## Notes & Practices
 
-- [**engineering-practices**](https://github.com/zzhen0710/engineering-practices) — Linux/C++ learning records, reusable engineering practices, components, and project templates.
-- [**algorithm-notes**](https://github.com/zzhen0710/algorithm-notes) — Algorithm study, competitive programming, and reusable problem-solving patterns.
+- [**engineering-practices**](https://github.com/zzhen0710/engineering-practices) — Linux/C++ environment records, coding conventions, and engineering lessons from projects.
+- [**algorithm-notes**](https://github.com/zzhen0710/algorithm-notes) — Algorithm study, problem reviews, and reusable problem-solving patterns.
+- [**ai-coding-notes**](https://github.com/zzhen0710/ai-coding-notes) — Notes on AI-assisted development: task scoping, context, code review, and verification.
 
 ## Currently Learning
 
-`C++` · `Linux` · `CMake` · `GDB` · `Systems Programming` · `Algorithms`
+`C++` · `Linux` · `CMake` · `GDB` · `Systems Programming` · `Algorithms` · `AI-assisted Development`
 
 Building projects, learning by doing.
-
-Still early, still improving.
